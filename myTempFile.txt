@@ -1,0 +1,6 @@
+3;ubat batok;12;12;Khamis;500ml;Approve
+1;1;1;1;1;1;1
+2;2;2;2;2;2;2
+Approve
+
+4;4;4;4;4;4;4
