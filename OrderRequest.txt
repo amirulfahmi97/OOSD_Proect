@@ -1,0 +1,2 @@
+59745;1;Paracetamol;250ML Tablet;Tablet;Children/Adult;50;150
+59799;1;CAMPRAL;80ML Liquid;Liquid;Adult;70;210
